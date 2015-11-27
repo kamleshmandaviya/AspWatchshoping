@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="anvsoftPFMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="800" movieHeight="600" backgroundColor="0xffffff" html_title="3D Gallery" anvsoftMenu="false" enableURL="true" frameRate="30"/>
+            <music_property path="" stream="true" loop="true"/>
+        </global>
+        <thumbnail>
+            <basic_property thumWidth="140" thumHeight="105" layerOfThum="3" thumNumOfLayer="10" spacingOfRow="8" spacingOfColumn="3" rotationSpeed="12"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="omega2" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="r-1008" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado1" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado10" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado11" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado12" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado2" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado3" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado4" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado5" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado6" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado7" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado8" width="800" height="600"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com" title="rado9" width="800" height="600"/>
+    </album>
+</flash_parameters>

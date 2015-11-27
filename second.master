@@ -1,0 +1,66 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="second.master.cs" Inherits="second" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>PhotoFolio | Full Width</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+<link rel="stylesheet" href="back.css" type="text/css" />
+</head>
+<body id="top">
+    <form id="form1" runat="server">
+<div class="wrapper col1">
+  <div id="header" class="clear">
+    <div class="fl_left">
+      <h1><a href="#">Online Watch Shoping</a></h1>
+          </div>
+    <div class="fl_right"></div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col1">
+  <div id="topbar" class="clear">
+    <ul id="topnav">
+      <li><a href="adminlogin.aspx">Home</a></li>
+	  <li><a href="adminaddwatch.aspx">Add Watch</a></li>
+	  <li><a href="adminupdatewatch.aspx">Update Watch</a></li>
+	  <li><a href="adminaddvideo.aspx">Add Video</a></li>
+	  <li><a href="adminupdatevideo.aspx">Update video</a></li>
+	  <li><a href="adminaddadvertise.aspx">Add Advertise</a></li>
+	  <li><a href="adminupdateadvertise.aspx">Update Advertise</a></li>
+	  <li><a href="adminupdateadvertise.aspx">Change Profile</a></li>
+	  <li><a href="adminbuy.aspx">Delivery Report</a></li>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="container" class="clear">
+    <!-- ####################################################################################################### -->
+    <!-- ####################################################################################################### -->
+      <table>
+          <tr>
+              <td height="50" width="200">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="footer" class="clear"></div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="copyright" class="clear">
+    <p class="fl_left">Copyright © 2011 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">
+        OS Templates</a></p>
+  </div>
+</div>
+    </form>
+</body>
+</html>

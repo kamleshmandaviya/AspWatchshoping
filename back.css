@@ -1,0 +1,57 @@
+﻿.background
+{
+	background-image: url( backimage/Bottom_texture.jpg );
+	background-repeat: repeat-x;
+}
+.backgroundmiddle
+{
+	background-image: url( backimage/backmiddle.jpg );
+	background-repeat: repeat-x;
+}
+.backgroundmidle
+{
+	background-image:url(backimage/midleback.jpg);
+	overflow:auto;
+}
+.login
+{
+	background-image: url('backimage/login.jpg');
+	height: 685px;
+	width: 1235px;
+}
+.backwhite
+{
+	background-image: url( backimage/Untitled-2.jpg);
+}
+.scrollbar
+{
+    overflow:auto;
+}
+.linkback
+{
+		background-image: url( backimage/linkback.jpg);
+}
+.deleteorder
+{
+		background-image: url( backimage/delete.jpg);
+}
+.linkbutton
+{
+	background-image:url(backimage/link.jpg);
+}
+.linkbutton:hover
+{
+	background-image:url(backimage/link1.jpg);
+}
+.admin
+{
+		background-image: url( backimage/admin.jpg);
+}
+
+
+/*.backgroundmidle
+{
+	background-image:url(backimage/midleback.jpg);
+	opacity:0.6;
+	background-attachment:fixed;
+}*/
